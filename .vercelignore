@@ -1,0 +1,11 @@
+venv
+.git
+.gitignore
+*.pyc
+__pycache__
+.env
+.env.local
+*.sqlite3
+media/
+.idea/
+screen_shots/
